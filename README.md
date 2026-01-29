@@ -1,1 +1,8 @@
-# KidsFirst_TE_pediatric_cancer
+## Methods and scripts for "The role of germline TE insertions in pediatric cancer predisposition"
+
+-  `run_xtea.sh` to generate xTea calls.
+-  `postprocess_xTea/postprocess_xTEA.sh` to annotate and merge xTea calls within 35bp
+-  `sample_filtering_steps/run_nextflow_meiqc.sh` to get ancestry, depth, and indexcov estimates
+-  For ancestry-matched control cohort generation see `matched_control_generation/`
+
+

@@ -1,0 +1,2 @@
+sample_id,bam_file,bai_file,vcf_file,tbi_file
+Sample1,/home/sample1.bam,/home/sample1.bam.bai,/home/sample1.vcf.gz,/home/sample1.vcf.gz.csi
